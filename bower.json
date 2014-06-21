@@ -1,0 +1,7 @@
+{
+  "name": "google-signin#gh-pages",
+  "private": true,
+  "dependencies": {
+    "google-signin": "GoogleWebComponents/google-signin#master"
+  }
+}
